@@ -1,0 +1,68 @@
+{
+  "profesores": [
+    {
+      "nombre": "Gogol",
+      "Materias": [
+        {
+          "Nombre": "Programacion 1"
+        },
+        {
+          "Nombre": "programacion 2"
+        }
+      ],
+      "id": "6b56"
+    },
+    {
+      "nombre": "Barlotta",
+      "Materias": [
+        {
+          "nombre": "Bases de datos 2"
+        },
+        {
+          "nombre": "Practicas Profesionalizantes 2"
+        }
+      ],
+      "id": "f545"
+    },
+    {
+      "id": "17bf",
+      "nombre": "Matias Arce",
+      "Materias": [
+        {
+          "Nombre": "Pedagogia"
+        },
+        {
+          "Nombre": "Pedagogia 2"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pedro",
+      "Apellido": "Bustos",
+      "MateriasDesaprobadas": [
+        {
+          "nombre": "Programacion 2"
+        },
+        {
+          "nombre": "Practicas Profesionalizantes 1"
+        }
+      ],
+      "id": "d970"
+    },
+    {
+      "nombre": "Federico",
+      "Apellido": "Rodriguez",
+      "MateriasDesaprobadas": [
+        {
+          "nombre": "Analisis Matematico"
+        },
+        {
+          "nombre": "Matematica Discreta"
+        }
+      ],
+      "id": "eb65"
+    }
+  ]
+}
